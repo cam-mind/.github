@@ -2,4 +2,4 @@
 
 > Cambridge multimodal imaging neuroscience data (MIND) hackathon
 
-→ https://github.com/cam-mind
+→ https://cam-mind.github.io
